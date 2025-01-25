@@ -32,3 +32,10 @@ Inventory-Management-System/
 ├── requirements.txt                  # Dependencies list
 
 └── schema.sql                        # SQL schema for database setup
+
+# default credentials
+
+ADMIN-123456
+
+CASHIER-123456
+
